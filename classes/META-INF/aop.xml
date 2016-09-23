@@ -1,0 +1,8 @@
+<aspectj>
+  <aspects>
+    <aspect name="MCMCTool"/>
+  </aspects>
+  <!--<weaver options="-verbose ">-->
+    <weaver options="-warn:none -Xlint:ignore">
+  </weaver>
+</aspectj>
